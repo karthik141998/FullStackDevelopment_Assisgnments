@@ -1,0 +1,20 @@
+<hmtl>
+
+    <head>
+        <title> Pratice Page</title>
+    </head>
+    
+    <body>
+        <img src="shutterstock_365425265.jpg" wiedth="500px" height="500px"> </img>
+    <h1 style="border:2px solid DodgerBlue;background-color:rgba(7, 3, 61, 0.459);font-family:verdana;font-size:xx-large;text-align: center;"> Welcome To Survie Page</h1>
+    
+    <p style="font-size: 140%;"> We provide service for delivery of all <a href="https://en.wikipedia.org/wiki/Grocery_store"> daily needs products </a>. We can assure that we will provide the best price <br>
+    in the market <br>
+    <br>
+    We were established on the year 2020. On the year 2021 we have established our new <a href="https://www.google.com/">website</a>. were you can order online.<br>
+    <br>
+    Your payment is secured with 3D techonology where you can trust us completly.<br>
+    </p>
+    <h3> <b> Once the order is palced we will try to delivery your product as soon as possbile within the given rage of time</b></h3>
+  </body>
+    </hmtl>
